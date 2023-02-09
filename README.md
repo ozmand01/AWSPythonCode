@@ -1,2 +1,2 @@
 # AWSPythonCode
-A code repo for AWS re/Start
+A code repo for the final AWS re/Start assignment
